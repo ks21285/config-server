@@ -1,5 +1,5 @@
-fiddle:
-    name: "Testing Config Server"
+config:
+    info: "Configuration values from : github repo"
     
     
     
